@@ -1,2 +1,2 @@
 # housing_prices
-prediction of house prices
+Prediction of house prices
